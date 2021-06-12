@@ -1,0 +1,9 @@
+{
+    "name": "Darkie",
+    "version": "1.1",
+    "license": "MIT",
+    "splashTheme": "s.scss",
+    "theme" : "theme.css",
+    "author": "me",
+    "description": "a smooth theme inspired by zorin blue"
+}
