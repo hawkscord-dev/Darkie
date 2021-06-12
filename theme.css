@@ -20,3 +20,10 @@
   --backgroundfloating: 0,0,0;
   --settingsicons: 1;
 }
+.roleColor-rz2vM0, .username-1A8OIy {
+  background-color: rgb(255 255 255 / 25%)
+}
+::selection {
+    color: #fff;
+    background: rgba(114, 137, 218, 0.80);
+}
